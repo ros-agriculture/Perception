@@ -1,0 +1,2 @@
+1. Create requirements.txt for python
+2. Create a folder for Model Generation
